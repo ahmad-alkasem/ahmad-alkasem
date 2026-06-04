@@ -223,9 +223,15 @@ Open to discussing **backend architecture**, **system design**, and solving hard
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20ahmad--alkasem.me-252555?style=for-the-badge&labelColor=252555)](https://ahmad-alkasem.me)
-[![LinkedIn](https://img.shields.io/badge/eng--ahmadalkasem-252555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=252555)](https://linkedin.com/in/eng-ahmadalkasem)
-[![Email](https://img.shields.io/badge/ahmadalkasem371@gmail.com-252555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=252555)](mailto:ahmadalkasem371@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252555?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=252555)](https://ahmad-alkasem.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-252555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=252555)](https://linkedin.com/in/eng-ahmadalkasem)
+[![Telegram](https://img.shields.io/badge/Telegram-252555?style=for-the-badge&logo=telegram&logoColor=white&labelColor=252555)](https://t.me/Eng_Ahmad_Alkasem)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-252555?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=252555)](https://wa.me/963994074680)
+
+[![Instagram](https://img.shields.io/badge/Instagram-252555?style=for-the-badge&logo=instagram&logoColor=white&labelColor=252555)](https://www.instagram.com/eng.ahmadalkasem)
+[![Facebook](https://img.shields.io/badge/Facebook-252555?style=for-the-badge&logo=facebook&logoColor=white&labelColor=252555)](https://www.facebook.com/eng.ahmadalkasem)
+[![GitHub](https://img.shields.io/badge/GitHub-252555?style=for-the-badge&logo=github&logoColor=white&labelColor=252555)](https://github.com/ahmad-alkasem)
+[![Email](https://img.shields.io/badge/Email-252555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=252555)](mailto:ahmadalkasem371@gmail.com)
 
 </div>
 
