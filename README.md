@@ -135,6 +135,16 @@ public sealed class AhmadAlkasem : SoftwareEngineer
 <!-- ═══════════════════════════════ FEATURED WORK ═══════════════════════════════ -->
 ## &nbsp;&nbsp;🚀 &nbsp;Featured Work
 
+<div align="center">
+
+[![Clean Architecture .NET](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-alkasem&repo=clean-architecture-dotnet&hide_border=true&bg_color=252555&title_color=FFFFFF&text_color=C9C9F0&icon_color=A9A0FF)](https://github.com/ahmad-alkasem/clean-architecture-dotnet)
+
+<sub>⭐ &nbsp;<b>Open source</b> — a reference backend showing <b>Clean Architecture · CQRS · MediatR validation pipeline · EF Core</b> on .NET 10. <a href="https://github.com/ahmad-alkasem/clean-architecture-dotnet"><b>Browse the code →</b></a></sub>
+
+</div>
+
+<br/>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
