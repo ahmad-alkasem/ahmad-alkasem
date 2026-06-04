@@ -132,6 +132,63 @@ public sealed class AhmadAlkasem : SoftwareEngineer
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
+<!-- ═══════════════════════════════ FEATURED WORK ═══════════════════════════════ -->
+## &nbsp;&nbsp;🚀 &nbsp;Featured Work
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💹 &nbsp;Financial Client Portal</h3>
+      <sub><b>Golden Stocks · Tech Lead</b></sub>
+      <p>A trading & wallet platform handling real-money transactions, account operations and live position tracking — with a <b>MetaTrader 5</b> integration and <b>n8n</b>-automated internal workflows. Delivered while leading a team of <b>12 developers</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-252555?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SignalR-252555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-252555?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MetaTrader%205-252555?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 &nbsp;Enterprise Medical Platform</h3>
+      <sub><b>Arachnotech · Backend Developer</b></sub>
+      <p>Clinical system used by clinics & hospitals, built on <b>RBAC</b>, full <b>audit logging</b> and patient workflows — plus warehouse modules for stock movement, inventory tracking and supply-chain rules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-252555?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EF%20Core-252555?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-252555?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RBAC-252555?style=flat-square&logo=auth0&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 &nbsp;AI Gallery — Multilingual Image Search</h3>
+      <sub><b>Graduation Project · Aleppo University</b></sub>
+      <p>Search a photo library by <b>text or voice</b> in multiple languages using <b>OpenAI CLIP</b> embeddings. Selected and showcased at the <i>Syrian Outstanding Projects Exhibition</i>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-252555?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLIP-252555?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vector%20Search-252555?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧱 &nbsp;Multi-Tenant Backend Suite</h3>
+      <sub><b>QmindTech · Software Engineer</b></sub>
+      <p>Backend across <b>HR, OTP/auth, healthcare & government</b> products — APIs for attendance, leave, inventory, accounting and payments, delivered on <b>Clean Architecture + CQRS</b> across 3+ active projects.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-252555?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CQRS-252555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-252555?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-252555?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center"><sub>More case studies & live demos on my portfolio → <a href="https://ahmad-alkasem.me"><b>ahmad-alkasem.me</b></a></sub></div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
 <!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
 ## &nbsp;&nbsp;📊 &nbsp;GitHub Analytics
 
@@ -144,6 +201,14 @@ public sealed class AhmadAlkasem : SoftwareEngineer
 <br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=ahmad-alkasem&hide_border=true&background=252555&ring=A9A0FF&fire=FFFFFF&currStreakLabel=C9C9F0&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9C9F0&dates=A9A0FF&stroke=A9A0FF" alt="GitHub Streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-alkasem/ahmad-alkasem/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-alkasem/ahmad-alkasem/output/snake.svg" />
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/ahmad-alkasem/ahmad-alkasem/output/snake.svg" />
+</picture>
 
 </div>
 
