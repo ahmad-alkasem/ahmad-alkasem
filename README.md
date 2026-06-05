@@ -19,13 +19,14 @@
 
 ## <div align="center">About Me</div>
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="34%">
 
-A senior **.NET backend engineer** based in Aleppo, Syria, with **3+ years** crafting powerful, clean, and scalable systems.
-I architect production-grade platforms across healthcare, fintech, ERP, authentication, and government domains —
-where reliability is non-negotiable and elegance is engineered in from the first line.
+<img src="https://raw.githubusercontent.com/ahmad-alkasem/ahmad-alkasem/main/assets/profile-pic.webp" width="100%" alt="Ahmad Alkasem" />
 
-</div>
+</td>
+<td valign="top" width="66%">
 
 ```csharp
 namespace AhmadAlkasem;
@@ -44,6 +45,18 @@ public sealed class SoftwareEngineer : IBackendArchitect
     public string Mission => "Build powerful, clean, scalable backend systems that last.";
 }
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+A senior **.NET backend engineer** based in Aleppo, Syria, with **3+ years** crafting powerful, clean, and scalable systems.
+I architect production-grade platforms across healthcare, fintech, ERP, authentication, and government domains —
+where reliability is non-negotiable and elegance is engineered in from the first line.
+
+</div>
 
 <div align="center">
 
