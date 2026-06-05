@@ -246,20 +246,6 @@ HR, OTP, healthcare and government services built on Clean Architecture and CQRS
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
-## <div align="center">GitHub Stats</div>
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=ahmad-alkasem&hide_border=true&background=252555&ring=A9A0FF&fire=FFFFFF&currStreakLabel=C9C9F0&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9C9F0&dates=A9A0FF&stroke=A9A0FF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-alkasem/ahmad-alkasem/output/snake.svg" /><img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/ahmad-alkasem/ahmad-alkasem/output/snake.svg" /></picture>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
 ## <div align="center">Connect</div>
 
 <div align="center">
