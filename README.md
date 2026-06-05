@@ -256,6 +256,7 @@ HR, OTP, healthcare and government services built on Clean Architecture and CQRS
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-252555?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=252555)](https://wa.me/963994074680)
 [![Instagram](https://img.shields.io/badge/Instagram-252555?style=for-the-badge&logo=instagram&logoColor=white&labelColor=252555)](https://www.instagram.com/eng.ahmadalkasem)
 [![Facebook](https://img.shields.io/badge/Facebook-252555?style=for-the-badge&logo=facebook&logoColor=white&labelColor=252555)](https://www.facebook.com/eng.ahmadalkasem)
+[![GitLab](https://img.shields.io/badge/GitLab-252555?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=252555)](https://gitlab.com/Ahmad_Alkasem)
 [![GitHub](https://img.shields.io/badge/GitHub-252555?style=for-the-badge&logo=github&logoColor=white&labelColor=252555)](https://github.com/ahmad-alkasem)
 [![Email](https://img.shields.io/badge/Email-252555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=252555)](mailto:ahmadalkasem371@gmail.com)
 
